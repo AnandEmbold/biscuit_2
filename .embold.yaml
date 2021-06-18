@@ -1,1 +1,5 @@
-lang: 'java,cpp'
+sources:
+  basedir :
+    - 't'
+    - 's'
+ langs: 'java,cpp'
