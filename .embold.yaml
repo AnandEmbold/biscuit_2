@@ -1,4 +1,5 @@
 sources:
-  basedir : '.'
-languages:
-  - 'java'
+  basedir : 
+    - 'tt'
+    - 'pp'
+langs: 'java,cpp'
