@@ -2,4 +2,4 @@ sources:
   basedir :
     - 't'
     - 's'
- langs: 'java,cpp'
+langs: 'java,cpp'
