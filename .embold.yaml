@@ -1,2 +1,4 @@
-sources:
-  basedir: ['t']
+version: 1
+languages:
+  - 'java'
+  
