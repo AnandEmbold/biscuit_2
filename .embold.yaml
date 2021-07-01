@@ -15,7 +15,7 @@ sources:
     - 'gulp'
     - 'grunt'
     - 'library'
-    - '/libs'
+    - '/libs/'
     - '.git'
 languages: 'cpp'
   
